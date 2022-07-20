@@ -1,0 +1,139 @@
+body {
+    color: #40514E;
+    margin: 0;
+    text-align: center;
+   font-family: 'Merrweather', serif;
+}
+h1 {
+    color: #1b6d6d;
+    margin-top: 50px;
+    font-size: 5.625rem;
+    font-family: 'sacramento', cursive;  
+    line-height: 1;
+}
+h2 { 
+    font-family: 'montserrat', sans-serif;
+    font-size: 2.5rem;
+    font-weight: normal;
+    padding-bottom: 10px;
+    color: rgb(23, 146, 140);
+}
+
+h3 {
+    font-family: 'montserrat', sans-serif;
+    font-size: 28px;
+    color: teal;
+}
+
+p {
+    line-height: 2;
+}
+
+
+a { 
+    color: #40514E;
+    font-family: 'montserrat', sans-serif;
+    margin: 10px 20px;
+    text-decoration: none;
+}
+
+a:hover {
+    color: white;
+}
+.top-container {
+    background-color: lightskyblue;
+    position: relative;
+    padding-top: 100px;
+}
+
+.middle-container {
+    margin: 100px 0;
+    color: gray;
+}
+
+.bottom-container {
+    background-color:teal;
+    padding: 50px 0 20px;
+    color: grey;
+
+}
+
+.skill-row {
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+}
+
+
+.code-skill {
+    margin-right: 25px;
+}
+
+.pro {
+    text-decoration: underline;
+}
+
+
+.intro {
+    width: 30%;
+    margin: auto;
+    
+}
+
+.contact-me {
+    width: 40%;
+    margin: 40px auto 60px;
+    
+}
+
+.copyright {
+    color: white;
+    font-size: 0.75rem;
+    padding: 20px 0;
+}
+.btn{
+    font-size:20px;
+  font-family:'montserrat', sans-serif;
+  width:169px;
+  height:53px;
+  border-width:1px;
+  color:rgba(231, 233, 239, 1);
+  border-color:rgba(255, 255, 255, 1);
+  font-weight:bold;
+  border-top-left-radius:8px;
+  border-top-right-radius:8px;
+  border-bottom-left-radius:8px;
+  border-bottom-right-radius:8px;
+  background:rgba(87, 155, 220, 1);
+  }
+
+hr { 
+    border-top: dotted grey 6px;
+    border-bottom: none;
+    width: 80%;
+    margin: 100px auto;
+
+}
+.top-cloud {
+    position: absolute;
+    right: 500px;
+    top: 40px;
+}
+
+.bottom-cloud {
+    position: absolute;
+   left: 520px;
+   bottom: 300px;
+}
+
+.code-img {
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+
+.web-img {
+    width: 25%;
+    float: right;
+    margin-right: 40px;
+}
