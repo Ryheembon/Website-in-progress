@@ -137,3 +137,6 @@ hr {
     float: right;
     margin-right: 40px;
 }
+img {
+  border-radius: 50%;
+}
