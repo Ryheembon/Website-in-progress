@@ -1,7 +1,7 @@
 html {
   background: url(https://images.pexels.com/photos/1421903/pexels-photo-1421903.jpeg?cs=srgb&dl=pexels-eberhard-grossgasteiger-1421903.jpg&fm=jpg) no-repeat center center fixed;
    background-size: cover;
-   height: 100%;
+   height: 100vh;
    overflow: ;
 
 }
