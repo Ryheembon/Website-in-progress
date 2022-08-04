@@ -146,7 +146,7 @@ img {
 
 /* Add a black background color to the top navigation */
 .topnav {
-  background-color: #333;
+  background-color:none;
   overflow: hidden;
 }
 
@@ -163,13 +163,13 @@ img {
 
 /* Change the color of links on hover */
 .topnav a:hover {
-  background-color: #ddd;
+  background-color: Grey;
   color: black;
 }
 
 /* Add an active class to highlight the current page */
 .topnav a.active {
-  background-color: #04AA6D;
+  background-color: none;
   color: white;
 }
 
