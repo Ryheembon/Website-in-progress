@@ -196,3 +196,5 @@ img {
 #myBtn:hover {
   background-color: #555; /* Add a dark-grey background on hover */
 }
+.skills p a:hover {
+    color: red; /* Link color on hover */
